@@ -1,0 +1,12 @@
+
+BUILDING,Surrounding
+//BUILDING,UnderGround
+
+
+//表头，自然id（从0开始），物品id（从物品表中选取）,摆放位置x:y:z（例如0:0:0）
+GOODS,0,33,0:2.8:17
+GOODS,1,34,0:2.8:45.38
+GOODS,2,35,0:2.8:30.48
+GOODS,3,4,0:0.8:24.55
+GOODS,4,2,0:0.8:37.5
+GOODS,5,1,0:0.8:50.32

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4f611e7040edec478b290fbc9eb95bd
+timeCreated: 1482138920
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Font_chinese: {fileID: 12800000, guid: 884ded72a9196db408188a0649473fa9, type: 3}
+  - Font_korean: {fileID: 12800000, guid: 0b172d7b6a8b2224aa1cf0f28ca01fe4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
